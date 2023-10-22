@@ -1,0 +1,79 @@
+@media (min-width: 500px) {
+    
+    .titulo {
+        font-size: 50px;
+        color: rgb(65, 65, 65);
+    }
+}
+
+a {
+    text-decoration: none;
+}
+
+.cabecera {
+    height: 50px;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.pagina {
+    margin-left: 20px;
+}
+
+.titulo {
+    font-size: 30px;
+    color: rgb(65, 65, 65);
+
+}
+
+.marcado {
+    font-weight: bold;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.aux {
+    visibility: hidden;
+}
+
+.main {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.imagen {
+    width: 80%;
+}
+
+.txt {
+    font-size: 20px;
+}
+
+.enlace {
+    color: grey;
+}
+
+.piedepag {
+    height: 100px;
+    background-color: slategrey;
+    margin: -8px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.txtpie {
+    color: rgb(36, 36, 36);
+}
+
+.img1 {
+    max-height: 400px;
+}
+
+form {
+    margin-top: 30px;
+}
